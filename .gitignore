@@ -1,0 +1,4 @@
+boot.img
+bootimg/14_dtbdump_	qcom,rtic-id.dtb
+product/priv-app/Velvet/Velvet.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
