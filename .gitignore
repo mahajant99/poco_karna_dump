@@ -1,0 +1,5 @@
+boot.img
+product/priv-app/Velvet/Velvet.apk
+recovery.img
+system/system/apex/com.android.vndk.current.apex
+system_ext/priv-app/Settings/Settings.apk
